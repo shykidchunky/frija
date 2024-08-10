@@ -3,5 +3,5 @@
     <version>2.0.23364.3</version>
     <url>https://github.com/SlackingVeteran/frija/releases/download/v2.0.23364.3/Frija_v2.0.23364.3.zip</url>
     <changelog>https://github.com/SlackingVeteran/frija/releases/latest</changelog>
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
